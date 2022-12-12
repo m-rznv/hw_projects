@@ -76,3 +76,4 @@
 [14:34:14] Addressbook has been loaded!
 [14:34:32] Contact aaaa has been added.
 [14:34:32] Addressbook has been saved!
+[23:39:03] Addressbook has been loaded!
